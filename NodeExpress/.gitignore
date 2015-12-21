@@ -1,0 +1,5 @@
+.project
+.settings/
+.jshintrc
+.sublime-project
+.tern-project
